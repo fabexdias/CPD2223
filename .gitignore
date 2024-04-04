@@ -1,0 +1,6 @@
+build
+tests/*.test
+tests/*.threads
+.vscode
+tsp*
+!tsp*.c
